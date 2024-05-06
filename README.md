@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE:28.04.2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -33,22 +33,24 @@
 
 ## OUTPUT :
 
-## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+## Support Removal Process:
 
-## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![EX-6 2 1](https://github.com/Ashwinakn/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/152128332/5a63535e-3b91-4d44-a531-cfcb773d7997)
+![EX-6 2 0](https://github.com/Ashwinakn/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/152128332/21888b39-798d-47fa-84c1-2bbae352bb1f)
 
-## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+## UV Curing of 3D printed part:
 
-## Output:
+![EX-6 2 2](https://github.com/Ashwinakn/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/152128332/49be873f-aa8e-4056-9a70-0660949cb53e)
+![EX-6 2 3](https://github.com/Ashwinakn/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/152128332/83f9f94d-6c5b-40c0-af9d-23c71b22e076)
 
-### Name:
-### Register Number:
+## Heat Treatment of 3D printed part:
+
+![EX-6 2 4](https://github.com/Ashwinakn/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/152128332/f70240d3-4dc8-4499-b44c-f40be9ff694d)
+
+![EX-6 2 5](https://github.com/Ashwinakn/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/152128332/8bdb160a-1164-4d4c-8d4f-e1650686044a)
+
+### Name: ASHWINA K N
+### Register Number: 212223230025
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
