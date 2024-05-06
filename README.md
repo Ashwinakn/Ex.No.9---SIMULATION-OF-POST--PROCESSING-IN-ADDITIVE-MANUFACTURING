@@ -36,11 +36,13 @@
 ## Support Removal Process:
 
 ![EX-6 2 1](https://github.com/Ashwinakn/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/152128332/5a63535e-3b91-4d44-a531-cfcb773d7997)
+
 ![EX-6 2 0](https://github.com/Ashwinakn/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/152128332/21888b39-798d-47fa-84c1-2bbae352bb1f)
 
 ## UV Curing of 3D printed part:
 
 ![EX-6 2 2](https://github.com/Ashwinakn/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/152128332/49be873f-aa8e-4056-9a70-0660949cb53e)
+
 ![EX-6 2 3](https://github.com/Ashwinakn/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/152128332/83f9f94d-6c5b-40c0-af9d-23c71b22e076)
 
 ## Heat Treatment of 3D printed part:
